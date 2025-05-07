@@ -1,0 +1,6 @@
+{
+  "name": "TestDeploy",
+  "auto_deploy": null,
+  "safety_checks": true,
+  "pause_enabled": true
+}
